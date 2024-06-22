@@ -30,6 +30,9 @@ main {
     height: 200px;
     background-color: #ddd;
     margin-bottom: 20px;
+    background-image: url('Images\AI.webp'); /* Add your image path here */
+    background-size: cover;
+    background-position: center;
 }
 
 .services {
